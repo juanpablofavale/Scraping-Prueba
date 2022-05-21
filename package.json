@@ -1,0 +1,15 @@
+{
+  "name": "scrapy-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index-express.js",
+  "scripts": {
+    "start": "index-express.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
